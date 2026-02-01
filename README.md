@@ -1,49 +1,91 @@
 # Awesome Dev Utilities 🚀
 
 A curated list of **free, fast, and no-login developer utility tools**
-for everyday development tasks.
+for everyday development tasks — all powered by **LoopPlunk**.
 
 Inspired by the `awesome` list philosophy.
 
 ---
 
-## 🌐 Online Tool Platforms
-- [LoopPlunk](https://loopplunk.com) – Collection of free online developer utilities like JSON formatter, UUID generator, cron tools, and more.
+## 🌐 Online Tool Platform
+
+- **[LoopPlunk](https://loopplunk.com)**  
+  A collection of free online developer utilities including SQL tools, generators, cron helpers, text tools, unit converters, and more.
 
 ---
 
-## 🧩 JSON & Data Tools
-- [JSON Formatter](https://loopplunk.com/tools/json-formatter) – Format and validate JSON online.
-- [Base64 Encoder/Decoder](https://loopplunk.com/tools/base64-encoder) – Encode and decode Base64 strings.
+## 🧩 SQL & Data Tools
+
+- **[SQL Formatter](https://loopplunk.com/sql_converter/format_sql/)**  
+  Format and beautify SQL queries for better readability and debugging.
 
 ---
 
 ## 🔑 Generators
-- [UUID Generator](https://loopplunk.com/tools/uuid-generator) – Generate RFC-compliant UUIDs online.
-- [Password Generator](https://loopplunk.com/tools/password-generator) – Create secure random passwords.
+
+- **[QR Code Generator](https://loopplunk.com/qr_generator/)**  
+  Generate QR codes instantly for URLs, text, and data.
+
+- **[UUID Generator](https://loopplunk.com/uuid/)**  
+  Generate RFC-compliant universally unique identifiers (UUIDs).
 
 ---
 
-## ⏱ Cron & Time
-- [Cron Expression Parser](https://loopplunk.com/tools/cron-parser) – Understand and test cron expressions.
+## ⏱ Cron & Scheduling Tools
+
+- **[Cron Job Scheduler / Helper](https://loopplunk.com/schedule_helper/cron_helper/)**  
+  Create, understand, and validate cron expressions with ease.
 
 ---
 
-## 🛠 Developer Utilities
-- SQL formatters
-- Regex testers
-- URL encoders/decoders
-- Hash generators
+## 📝 Text Tools
+
+- **[Lorem Ipsum Generator](https://loopplunk.com/text_tools/lorem_generator/)**  
+  Generate placeholder Lorem Ipsum text for design and development.
+
+---
+
+## 🔄 Converters & Utilities
+
+- **[Unit Converter](https://loopplunk.com/unit_convert/)**  
+  Convert between common units quickly and accurately.
+
+- **[URL Information Tool](https://loopplunk.com/urlinfo/)**  
+  Analyze URLs and extract useful technical details.
+
+---
+
+## 📚 Developer Cheat Sheets
+
+- **[Developer Cheatsheets](https://loopplunk.com/cheatsheets/)**  
+  Handy reference guides for developers to speed up everyday work.
+
+---
+
+## 🛠 Why LoopPlunk?
+
+- ✅ No sign-up required  
+- ✅ Fast, browser-based tools  
+- ✅ Useful for developers, students, testers, and engineers  
+- ✅ One platform for multiple daily development needs  
 
 ---
 
 ## 🤝 Contributing
+
 Contributions are welcome!
-- Fork the repo
-- Add useful tools
-- Create a pull request
+
+1. Fork the repository  
+2. Add new LoopPlunk tools or improve descriptions  
+3. Submit a pull request  
 
 ---
 
 ## ⭐ Support
-If you find this useful, please ⭐ star the repository.
+
+If you find this list useful, please **⭐ star the repository**  
+and share it with fellow developers.
+
+---
+
+Happy coding! 🚀  
